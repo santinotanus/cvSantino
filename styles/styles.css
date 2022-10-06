@@ -7,7 +7,9 @@ body {
     background-color: white;
     display: flex;
     flex-direction: column;
-    min-height: 100%;
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 3em;
 }
 .contactoh1 {
     padding:0%;
@@ -175,15 +177,15 @@ li{
 }
 .footer {
     width: 100%;
-    margin-top: auto;
-    display: flex;
     justify-content: center;
+    font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px; 
+    text-align: center;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
     background-color: #0A0F6D;
     color: white;
-    position: absolute;
-    bottom: 0;
 }
 @media only screen and (max-width:765px){
     .main {
@@ -215,10 +217,6 @@ li{
     }
     .h2{
         font-size: 32px;
-    }
-    body{
-        padding-bottom: 3em;
-        min-height: 100vh;
     }
     input:checked  ~ ul{ 
         display:block;
