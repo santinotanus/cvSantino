@@ -181,6 +181,8 @@ li{
     font-size: 13px; 
     background-color: white;
     color: #0A0F6D;
+    position: absolute;
+    bottom: 0;
 }
 @media only screen and (max-width:765px){
     .main {
