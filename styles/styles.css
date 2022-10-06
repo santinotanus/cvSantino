@@ -179,8 +179,8 @@ li{
     justify-content: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px; 
-    background-color: white;
-    color: #0A0F6D;
+    background-color: #0A0F6D;
+    color: white;
     position: absolute;
     bottom: 0;
 }
