@@ -211,7 +211,7 @@ li{
         width: 100%;
     }
     .h2{
-        font-size: 40px;
+        font-size: 35px;
     }
     input:checked  ~ ul{ 
         display:block;
