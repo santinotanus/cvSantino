@@ -188,6 +188,7 @@ li{
     }
     .flex{
         flex-direction: column;
+        margin-top: 1%;
     }
     .headernav{
         display:none;
