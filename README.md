@@ -6,4 +6,4 @@
 - CV Santino Tanus
 
 ### **Link de la pagina:**
-- [CV](https://mzucche.github.io/ProyectoStartupGrupo14/index.html) -> (Vista del sitio)
+- [CV](https://santinotanus.github.io/cvSantino/index.html) -> (Vista del sitio)
