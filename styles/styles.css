@@ -210,6 +210,9 @@ li{
     .textoparrafohome{
         width: 100%;
     }
+    .h2{
+        font-size: 40px;
+    }
     input:checked  ~ ul{ 
         display:block;
           }
